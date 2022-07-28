@@ -1,0 +1,23 @@
+@font-face{
+    src: url(../fonts/DMSans-Bold.ttf);
+    font-weight: 700;
+    font-family: DMSans;
+}
+
+@font-face{
+    src: url(../fonts/DMSans-Medium.ttf);
+    font-weight: 500;
+    font-family: DMSans;
+}
+
+@font-face{
+    src: url(../fonts/DMSans-Regular.ttf);
+    font-weight: 400;
+    font-family: DMSans;
+}
+
+@font-face{
+    src: url(../fonts/Questrial-Regular.ttf);
+    font-weigh: 400;
+    font-family: Questrial;
+}
